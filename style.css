@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(206, 216, 2);
 }
 
 h2{
@@ -25,7 +25,7 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: rgb(119, 118, 120);
     text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ img{
     width:70%;
     color: white;
     font-size: 110%;
-    background:gray;
+    background:blue;
     padding: 4px;
     border:1px solid white;
 }
@@ -67,7 +67,7 @@ img{
 }
 
 .half{
-    width: 48%;
+    width: 60%;
     float: left;
 }
 
