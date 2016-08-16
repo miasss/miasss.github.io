@@ -198,14 +198,17 @@ var rules = {
   "~*x yes ~*y": [
     "You seem quite positive",
     "You are sure?",
+    "That's a terrible thing to say",
     "I understand",
   ],
   "~*x someone ~*y": [
+    "Tell me WHO????",
     "Can you be more specific?",
   ],
   "~*x everyone ~*y": [
     "Surely not everyone",
     "Can you think of anyone in particular?",
+     "Everyone is an illusion!",
     "Who, for example?",
     "You are thinking of a special person",
   ],
@@ -216,6 +219,7 @@ var rules = {
     "Really--always?",
   ],
   "~*x what ~*y": [
+    "Curiosity killed the cat!",
     "Why do you ask?",
     "Does that question interest you?",
     "What is it you really want to know?",
@@ -229,10 +233,13 @@ var rules = {
 
 var default_responses = [
   "Very interesting",
+  "Pleae don't mumble",
+  "Inever undertand what you say",
   "I am not sure I understand you fully",
   "What does that suggest to you?",
   "Please continue",
   "Go on",
+  "Never say that again, dude. Srsly",
   "Do you feel strongly about discussing such things?",
 ];
 
